@@ -1,30 +1,38 @@
 {
   "files": {
-    "main.css": "/proto/static/css/main.aabd7821.chunk.css",
-    "main.js": "/proto/static/js/main.dd4d6c8f.chunk.js",
-    "main.js.map": "/proto/static/js/main.dd4d6c8f.chunk.js.map",
+    "main.css": "/proto/static/css/main.0a49ba98.chunk.css",
+    "main.js": "/proto/static/js/main.1e2e870f.chunk.js",
+    "main.js.map": "/proto/static/js/main.1e2e870f.chunk.js.map",
     "runtime-main.js": "/proto/static/js/runtime-main.2b656acf.js",
     "runtime-main.js.map": "/proto/static/js/runtime-main.2b656acf.js.map",
     "static/css/2.de424728.chunk.css": "/proto/static/css/2.de424728.chunk.css",
-    "static/js/2.590928f0.chunk.js": "/proto/static/js/2.590928f0.chunk.js",
-    "static/js/2.590928f0.chunk.js.map": "/proto/static/js/2.590928f0.chunk.js.map",
+    "static/js/2.9fbc997d.chunk.js": "/proto/static/js/2.9fbc997d.chunk.js",
+    "static/js/2.9fbc997d.chunk.js.map": "/proto/static/js/2.9fbc997d.chunk.js.map",
     "index.html": "/proto/index.html",
-    "precache-manifest.3ba4ebf52e61866bc0e0a49543912e28.js": "/proto/precache-manifest.3ba4ebf52e61866bc0e0a49543912e28.js",
+    "precache-manifest.ecbec10a471429e31de7caa8f43c636e.js": "/proto/precache-manifest.ecbec10a471429e31de7caa8f43c636e.js",
     "service-worker.js": "/proto/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/proto/static/css/2.de424728.chunk.css.map",
-    "static/css/main.aabd7821.chunk.css.map": "/proto/static/css/main.aabd7821.chunk.css.map",
-    "static/js/2.590928f0.chunk.js.LICENSE.txt": "/proto/static/js/2.590928f0.chunk.js.LICENSE.txt",
+    "static/css/main.0a49ba98.chunk.css.map": "/proto/static/css/main.0a49ba98.chunk.css.map",
+    "static/js/2.9fbc997d.chunk.js.LICENSE.txt": "/proto/static/js/2.9fbc997d.chunk.js.LICENSE.txt",
     "static/media/App.css": "/proto/static/media/pill-2.2467d856.jpg",
+    "static/media/bucuresti.png": "/proto/static/media/bucuresti.832436df.png",
+    "static/media/cluj.png": "/proto/static/media/cluj.8c4d055f.png",
+    "static/media/constanta.png": "/proto/static/media/constanta.f1286fbd.png",
+    "static/media/craiova.png": "/proto/static/media/craiova.cfb5fd7f.png",
+    "static/media/doctors.jpg": "/proto/static/media/doctors.73b432c9.jpg",
+    "static/media/iasi.jpg": "/proto/static/media/iasi.f24b75c1.jpg",
     "static/media/logo.svg": "/proto/static/media/logo.5d5d9eef.svg",
     "static/media/pexel1.jpeg": "/proto/static/media/pexel1.beee7f66.jpeg",
     "static/media/pexels2.jpeg": "/proto/static/media/pexels2.dd42dee5.jpeg",
-    "static/media/profile.jpg": "/proto/static/media/profile.4a6fe626.jpg"
+    "static/media/profile.jpg": "/proto/static/media/profile.4a6fe626.jpg",
+    "static/media/sibiu.png": "/proto/static/media/sibiu.92ec5cd2.png",
+    "static/media/timisoara.png": "/proto/static/media/timisoara.b2352ec2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2b656acf.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.590928f0.chunk.js",
-    "static/css/main.aabd7821.chunk.css",
-    "static/js/main.dd4d6c8f.chunk.js"
+    "static/js/2.9fbc997d.chunk.js",
+    "static/css/main.0a49ba98.chunk.css",
+    "static/js/main.1e2e870f.chunk.js"
   ]
 }
